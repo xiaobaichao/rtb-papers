@@ -1,4 +1,3 @@
-# maxsong
 # Paper Collection of Real-Time Bidding
 
 This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Weinan Zhang](http://wnzhang.net).
